@@ -1,4 +1,4 @@
-﻿from ctypes import c_bool, c_buffer
+
 from tkinter import *
 from math import *
 import numpy as np
